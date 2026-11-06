@@ -1,154 +1,24 @@
-<div align="center">
+<a href="https://yuktha-portfolio-sand.vercel.app/"><img src="assets/header.svg" width="100%" alt="Yuktha Ramesh Gowda. On building agentic AI systems that are safe to ship. AI Engineer; Graduate Research Assistant, Stevens Institute of Technology. Abstract: I design and build agentic AI systems: multi-step LLM workflows, retrieval-augmented generation, and the deterministic checks that keep them honest. I previously shipped LLM screening features at Zennial Pro. Today I build agent pipelines at Stevens and am working on a recruitment platform. My work has appeared at an IEEE conference and in TIJER."></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yuktha+Ramesh+Gowda;AI+Product+Manager;I+build+AI+products+that+actually+ship;PRDs+%C2%B7+User+Research+%C2%B7+LLM+Evals" alt="Typing SVG" />
+<p align="center">
+  <a href="https://yuktha-portfolio-sand.vercel.app/">portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/yuktha-gowda">linkedin</a> &nbsp;·&nbsp;
+  <a href="mailto:yuktha.gowda12@gmail.com">email</a>
+</p>
 
-### 🚀 AI Product Manager · LLM-powered SaaS · GenAI Evaluation · Data-Driven Decisions
+<img src="assets/figure-method.svg" width="100%" alt="Figure 1. The loop I design for: query, retriever (ChromaDB, embeddings), planner (LLM, LangGraph) that calls tools, validator (rule-based checks), output (cited, traced). Drafts that fail a check go back to the planner for revision.">
 
-📍 New Jersey, USA &nbsp;|&nbsp; 🎓 M.Eng. in Engineering Management @ Stevens Institute of Technology &nbsp;|&nbsp; 💼 Open to PM roles · 2026
+<img src="assets/sec-experiments.svg" width="100%" alt="2. Selected experiments">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuktha-gowda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuktha.gowda12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://render-reflection-relay.lovable.app)
+<p align="center">
+  <a href="https://yuktha-portfolio-sand.vercel.app/"><img src="assets/causal-agent.svg" width="49%" alt="Experiment 2.1, Causal Design Agent: 8-stage LangGraph agent grounded by RAG; LLM drafts pass deterministic checks. Result: source-cited, auditable designs traced in LangSmith."></a>
+  <a href="https://yuktha-portfolio-sand.vercel.app/"><img src="assets/smart-recruits.svg" width="49%" alt="Experiment 2.2, Smart Recruits: tool-calling LLM workflow to parse, score and shortlist candidates with RAG matching. Result: fewer hallucinated matches via prompt and eval loops."></a>
+  <a href="https://github.com/YukthaGowda/AUTOIMMUNE-DISEASE"><img src="assets/autoimmune-ml.svg" width="49%" alt="Experiment 2.3, Autoimmune Disease ML: XGBoost + Random Forest ensemble with SMOTE. Result: 0.93 AUC, about 89% accuracy, IEEE conference paper."></a>
+  <a href="https://yuktha-portfolio-sand.vercel.app/"><img src="assets/skin-lesion-cnn.svg" width="49%" alt="Experiment 2.4, Skin Lesion Detection: TensorFlow/Keras CNN with OpenCV preprocessing. Result: published in TIJER."></a>
+</p>
 
-</div>
+<img src="assets/figure-experience.svg" width="100%" alt="Figure 2. Experience over time: Graduate Research Assistant at Stevens (May 2026 to now), M.S. Engineering Management at Stevens (2025–2027), Software Engineer at Zennial Pro (2024–2025), Full Stack Development Intern at Varcons Technologies (2024), Web Development Intern at ICT Academy (2023), B.E. Computer Science at BNM Institute of Technology (2020–2024).">
 
-<br>
+<img src="assets/table-tooling.svg" width="100%" alt="Table 1. Methods and tooling. Agents and LLMs: LangGraph, LangChain, LangSmith, OpenAI API, tool calling, prompt engineering. Retrieval: RAG, ChromaDB, embeddings, semantic search, Hugging Face, Transformers. Machine learning: PyTorch, TensorFlow, XGBoost, Random Forest, CNNs, NLP. Engineering: Python, FastAPI, React, TypeScript, REST APIs, SQL, Git. Automation and data: Synthesia, Riverside, Power Automate, Power BI, Tableau, Jira.">
 
-## 👋 About Me
-
-I'm an AI Product Manager who cares about the unglamorous work that makes GenAI features actually land — scoping the right problem, writing the PRD, running the evals, and talking to the users who'll live with the output.
-
-- 🔭 **Currently:** Building AI/LLM product case studies and sharpening my PM craft during my Master's at Stevens
-- 💡 **Previously:** Shipped generative AI agent features for recruiters at **Zennial Pro** — candidate matching, JD generation, AI screening calls, and a recruiter copilot
-- 🔬 **Research:** IEEE-selected paper on ML-based clinical decision support; published CNN research in TIJER
-- 📊 **I think in:** PRDs, RICE/OKR prioritization, LLM eval frameworks, and dashboards stakeholders actually open
-- 🌱 **Always learning:** Agentic workflows, prompt evaluation methodology, and applied ML for product decisions
-
-<br>
-
-## 📈 Impact at a Glance
-
-<div align="center">
-
-| 1+ yr | 30–50 | +20% | 2 |
-|:---:|:---:|:---:|:---:|
-| AI/LLM SaaS PM experience | User interviews shipped | Task completion lift | Published research papers |
-
-</div>
-
-<br>
-
-## 🛠️ Featured Work
-
-### 🤖 [Smart Recruits — LLM Recruitment SaaS](https://render-reflection-relay.lovable.app/projects)
-*AI/LLM Product Manager · Zennial Pro · 2024–2025*
-
-Generative AI agent features for recruiters, shipped through a tight loop of PRDs, evals, and user research.
-- Wrote 12+ PRDs across candidate matching, JD generation, AI screening, and recruiter copilot
-- Built an LLM evaluation framework (relevance, hallucination, tone, bias) on a 200-prompt golden set — cut bad outputs ~35%
-- Ran 30–50 recruiter interviews + 12 usability sessions → lifted task completion ~20%
-- Led GTM: onboarding, sales SOPs, and beta cohorts that accelerated agent adoption ~40%
-
-`LLMs` `Agents` `Prompt Engineering` `LLM Evals` `Power BI`
-
----
-
-### 🏥 [Autoimmune Disease ML Prediction System](https://github.com/YukthaGowda/AUTOIMMUNE-DISEASE)
-*Stevens Institute · Sep 2025 – Jan 2026 · **IEEE Conference — selected***
-
-Clinical decision-support tool trained on 11,700+ patient records, built with clinical advisors to hit real diagnostic thresholds.
-- Scoped success criteria with clinicians: sensitivity ≥ 90%, false positive rate < 15%
-- Led a 4-person team from data → modeling → evaluation
-- Shipped an XGBoost + Random Forest ensemble: **89% accuracy, 91% sensitivity, 0.93 AUC**
-- Built a Streamlit prototype for non-technical clinical reviewers
-
-`XGBoost` `Random Forest` `Python` `Streamlit` `SMOTE`
-
----
-
-### 📊 E-Commerce Churn & Product Analytics
-*Personal Project · 2025*
-
-End-to-end analytics pipeline on 50K+ rows, turning raw behavior data into retention decisions.
-- Built the full ETL pipeline in Python/pandas + SQL, engineering 18 behavioral features
-- Ran RFM segmentation + logistic regression churn scoring
-- Surfaced 4 actionable retention levers in a Power BI dashboard with a decision memo
-
-`Python` `pandas` `SQL` `Power BI` `RFM`
-
----
-
-### 🔬 AI Skin Lesion Detection Tool
-*BNM Institute · Nov 2023 – Apr 2024 · **Published in TIJER***
-
-CNN-based skin disease detection, trained and shipped for the accuracy-vs-latency tradeoff.
-- Led a 3-person team end-to-end, from product scope to published results
-- Compared 3 CNN architectures; shipped MobileNetV2 — 87% top-1 accuracy, <300ms inference
-- Owned the full research writeup and reviewer response process
-
-`TensorFlow` `CNN` `MobileNetV2` `Python`
-
-<br>
-
-## 📝 Case Studies — PM Thinking, Written Down
-
-| Case Study | Focus |
-|---|---|
-| [Adaptive Onboarding for Google Maps](https://render-reflection-relay.lovable.app/case-studies/maps-onboarding) | AI-personalized onboarding that unlocks features as user confidence grows |
-| [RICE Prompt Analytics](https://render-reflection-relay.lovable.app/case-studies/prompt-analytics) | A prompt analyzer + improver + PM dashboard for reliable AI usage |
-| [B2B AI Decision Intelligence](https://render-reflection-relay.lovable.app/case-studies/decision-intelligence) | Turning meeting discussions into tracked decisions and ownership |
-
-<br>
-
-## 🧰 Toolkit
-
-<div align="center">
-
-**Product & AI**
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square)
-![LLM Evals](https://img.shields.io/badge/LLM_Evals-FF6F61?style=flat-square)
-![PRDs](https://img.shields.io/badge/PRD_Writing-2E7D32?style=flat-square)
-![Roadmapping](https://img.shields.io/badge/Roadmaps_%26_OKRs-0288D1?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile_Delivery-FF9800?style=flat-square)
-
-**Technical**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data & Delivery**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YukthaGowda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaGowda&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-
-### 💬 Let's talk about AI products worth building
-
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://render-reflection-relay.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuktha-gowda)
-
-<img src="https://komarev.com/ghpvc/?username=YukthaGowda&style=flat-square&color=6C63FF" alt="Profile views" />
-
-</div>
+<a href="mailto:yuktha.gowda12@gmail.com"><img src="assets/references.svg" width="100%" alt="References. [1] ML-based autoimmune disease prediction, accepted at an IEEE conference. [2] CNN-based skin lesion detection, TIJER, Paper ID TIJER2410024. Correspondence: yuktha.gowda12@gmail.com."></a>
